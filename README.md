@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita-d&column=5" alt="harshita-d" /></a> </p>
 
 
-- 🔭 I’m currently working on [LLm APP](https://github.com/harshita-d/Conductor_LLM_Platform)
+- 🔭 I’m currently working on [LLM APP](https://github.com/harshita-d/Conductor_LLM_Platform)
 
 - 🌱 I’m currently learning **Python and Django**
 
